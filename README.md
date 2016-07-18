@@ -1,13 +1,13 @@
-**Insight V1**
+##**Insight V1**
 
  Physical computing code for datalogging carryable
 
 
-**Insight V2** 
+#**Insight V2** 
 
  Enhancing Existing Bespoke Technology
 
-V2 
+###### **V2** [Hardware Update] 
 + Added BN0055 [Adafruit] Accelerometer
 + Replaced Micro SD Breakout Board. 
 + Replaced Pro Mini with Teensy 3.2
